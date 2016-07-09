@@ -1,0 +1,1 @@
+THIS FOLDER CONTAINS ALL APPS, iOS, Android etc.
